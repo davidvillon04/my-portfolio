@@ -1,9 +1,9 @@
-import Header from "../components/Header";
+import Navbar from "../components/Navbar";
 
 export default function About() {
   return (
     <>
-      <Header />
+      <Navbar />
       <p>This is the about page!</p>
     </>
   );
